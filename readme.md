@@ -1,4 +1,4 @@
-## Project Title
+## Embroidery Blog
 This is a multi-container application that includes a database, backend, frontend, and a web server. The application is orchestrated using Docker Compose.
 
 ## Getting Started
